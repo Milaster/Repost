@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Milaster/Repost</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Milaster/Repost/activity</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Milaster/Repost/issues</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Milaster/Repost/pulls</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Milaster/Repost/actions</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Milaster/Repost/security</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Milaster/Repost/blob/main/birthday.html</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Milaster/Repost/blob/main/style.css</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Milaster/Repost/releases</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Milaster/search?q=repo%3AMilaster%2FRepost++language%3ACSS</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Milaster/search?q=repo%3AMilaster%2FRepost++language%3AHTML</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Milaster/Repost/labels</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Milaster/Repost/milestones</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Milaster/Repost/milestones?state=closed</loc>
+  <lastmod>2025-08-07T07:04:35+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
